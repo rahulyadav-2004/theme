@@ -19,7 +19,7 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "",
+            "subheading": "A cleaner, smokeless alternative for nicotine lovers.",
             "title": "FEEN. Instant Satisfaction. Zero Guilt",
             "heading_tag": "h1",
             "button_text": "Explore Feen",
@@ -38,7 +38,7 @@
         "slide-2"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": true,
         "image_size": "auto",
         "controls_type": "numbers",
