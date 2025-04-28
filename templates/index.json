@@ -32,16 +32,38 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_YQe9PX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_187.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "slide-2"
+        "slide-2",
+        "image_YQe9PX"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
         "image_size": "auto",
-        "controls_type": "numbers",
+        "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
