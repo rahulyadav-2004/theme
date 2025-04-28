@@ -63,7 +63,7 @@
         "full_width": true,
         "allow_transparent_header": true,
         "image_size": "auto",
-        "controls_type": "dots",
+        "controls_type": "filled_arrows",
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
