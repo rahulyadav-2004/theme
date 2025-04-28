@@ -278,6 +278,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Group_199.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -285,13 +286,14 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection-3": {
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Group_200.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -299,7 +301,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
