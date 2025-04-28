@@ -39,7 +39,7 @@
           "settings": {
             "image": "shopify://shop_images/Frame_198.webp",
             "mobile_image": "shopify://shop_images/Frame_201_40cc6ccc-d24f-41f5-9049-d84d41d9ef75.jpg",
-            "content_max_width": 660,
+            "content_max_width": 700,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "START YOUR QUITTING JOURNEY TODAY.",
@@ -66,7 +66,7 @@
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "EXPERIENCE THE FEEN DIFFERENCE",
             "title": "GET YOUR PACK AT JUST RS 199",
-            "heading_tag": "h0",
+            "heading_tag": "h1",
             "button_text": "GRAB FEEN FOR 199",
             "button_link": "",
             "text_color": "#0057d3",
