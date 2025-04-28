@@ -99,22 +99,10 @@
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Group_195.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image-removebg-preview.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -127,6 +115,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image-removebg-preview_1.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -139,6 +128,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image-removebg-preview_2.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -151,6 +141,20 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image-removebg-preview_3.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_cPUUjX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_196.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -162,17 +166,17 @@
         }
       },
       "block_order": [
-        "1664424046b00c932c-0",
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
         "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "item_cPUUjX"
       ],
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
+        "full_width": true,
+        "block_size": "small",
         "subheading": "",
-        "title": "WHY CHOOSE FEEN ?",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
