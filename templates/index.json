@@ -38,7 +38,7 @@
         "slide-2"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": true,
         "image_size": "auto",
         "controls_type": "numbers",
