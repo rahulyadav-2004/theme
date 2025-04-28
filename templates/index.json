@@ -235,12 +235,14 @@
       "settings": {
         "collection": "",
         "products": [
-          "feen-10-mg"
+          "feen-10-mg",
+          "pack-of-3",
+          "pack-of-5"
         ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
-        "products_count": 2,
+        "products_count": 3,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
