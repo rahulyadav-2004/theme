@@ -263,15 +263,16 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "",
+            "image": "shopify://shop_images/Group_201.webp",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://products/feen-10-mg",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection-2": {
