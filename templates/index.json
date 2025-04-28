@@ -99,6 +99,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Group_195.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -168,7 +169,7 @@
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "",
+        "title": "WHY CHOOSE FEEN ?",
         "content": "",
         "link_url": "",
         "link_text": "",
