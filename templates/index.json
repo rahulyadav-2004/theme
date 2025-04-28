@@ -15,14 +15,14 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_182_1.webp",
+            "image": "shopify://shop_images/WER.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "",
-            "title": "FEEN. PURE NICOTINE , ZERO COMPROMISE",
-            "heading_tag": "h0",
-            "button_text": "",
+            "title": "",
+            "heading_tag": "h1",
+            "button_text": "Explore Feen",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
