@@ -38,8 +38,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Frame_198.webp",
+            "mobile_image": "shopify://shop_images/Frame_201.jpg",
             "content_max_width": 660,
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "START YOUR QUITTING JOURNEY TODAY.",
             "title": "NICOTINE. WITHOUT SMOKE , SMELL OR GUILT",
