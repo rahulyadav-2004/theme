@@ -19,7 +19,7 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "Tell your story",
+            "subheading": "A cleaner, smokeless alternative for nicotine lovers. No smoke, no hassle , just pure satisfaction.",
             "title": "Slide title",
             "heading_tag": "h0",
             "button_text": "",
@@ -38,7 +38,7 @@
         "slide-2"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": true,
         "image_size": "auto",
         "controls_type": "numbers",
