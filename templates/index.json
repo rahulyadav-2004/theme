@@ -437,7 +437,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/New.webp",
+            "image": "shopify://shop_images/HOW_TO.webp",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
