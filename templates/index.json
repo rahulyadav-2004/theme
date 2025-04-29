@@ -459,7 +459,8 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/WHATS_FEEN.webp",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
