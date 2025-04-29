@@ -223,11 +223,11 @@
         "text_size": "medium",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
+        "scrolling_speed": 9,
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": "linear-gradient(180deg, rgba(79, 172, 254, 1), rgba(0, 114, 255, 1) 100%)"
+        "text_gradient": "linear-gradient(180deg, rgba(249, 212, 35, 1), rgba(255, 78, 80, 1) 99%)"
       }
     },
     "featured-collection": {
