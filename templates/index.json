@@ -393,11 +393,13 @@
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/New.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -411,7 +413,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/New.webp",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
