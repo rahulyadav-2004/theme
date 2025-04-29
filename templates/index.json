@@ -586,11 +586,23 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_6qtKwQ": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/2.jpg",
+            "logo_width": 100,
+            "author": "Amit Gupta",
+            "content": "Rs.199 for a premium pouch is unbeatable. I’ve already recommended Feen to 3 of my friends. It’s the future of quitting.",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_6qtKwQ"
       ],
       "settings": {
         "full_width": true,
