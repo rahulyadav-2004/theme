@@ -568,21 +568,23 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/1.jpg",
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "author": "Manish Shankar",
+            "content": "Other brands are charging ₹500+ for the same thing. Feen gives me better quality at less than half the price. Finally, someone’s not looting us!",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/3.jpg",
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "author": "Sanjeev Patel",
+            "content": "I switched from an ZYN and Velo to Feen and I honestly can’t tell the difference, except for the price. ₹199 feels like a steal.",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
