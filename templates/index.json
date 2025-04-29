@@ -224,7 +224,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 9,
-        "background": "#1a1a1a",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": "linear-gradient(180deg, rgba(249, 212, 35, 1), rgba(255, 78, 80, 1) 99%)"
