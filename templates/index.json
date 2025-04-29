@@ -503,7 +503,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Steps.webp",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
