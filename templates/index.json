@@ -382,6 +382,7 @@
         "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/lv_0_20250412231342.mp4",
         "external_video_url": "https://vimeo.com/1079891776?share=copy",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
