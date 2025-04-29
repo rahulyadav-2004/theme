@@ -227,7 +227,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": "linear-gradient(180deg, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1) 99%)"
+        "text_gradient": "linear-gradient(180deg, rgba(249, 212, 35, 1), rgba(255, 78, 80, 1) 99%)"
       }
     },
     "featured-collection": {
