@@ -371,29 +371,21 @@
         "play_yB4Hnn": {
           "type": "play",
           "settings": {}
-        },
-        "heading_QTTHXf": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_yB4Hnn",
-        "heading_QTTHXf"
+        "play_yB4Hnn"
       ],
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
         "external_video_url": "https://vimeo.com/1079891776?share=copy",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "image-with-text-overlay": {
