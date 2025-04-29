@@ -541,7 +541,7 @@
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "subheading": "",
         "title": "Switch to FEEN. See the Change.",
         "content": "<p>FEEN. is designed to help you QUIT .</p>",
