@@ -627,8 +627,8 @@
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "ORANGE",
+            "content": "<p><strong>Orange by FEEN</strong> brings a zesty, citrus kick that energizes your senses while helping you move away from cigarettes. With no smoke or tobacco, it delivers clean nicotine relief in a convenient pouch. The bright orange flavor makes the switch more pleasant, easing withdrawal and helping break the habit without the mess or stigma of smoking.</p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -639,8 +639,8 @@
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "COOL MINT",
+            "content": "<p>Cool Mint by FEEN is designed to help you quit smoking by giving you a clean, smoke-free way to manage nicotine cravings. Each pouch delivers a satisfying dose of nicotine without the harmful chemicals found in cigarettes, while the refreshing mint flavor helps curb the urge to smoke. It's discreet, easy to use anywhere, and leaves no smell—making it a more socially acceptable and convenient alternative. By reducing withdrawal symptoms and replacing the hand-to-mouth habit with a healthier option, FEEN makes quitting feel more manageable and less stressful.</p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -651,8 +651,8 @@
             "horizontal_position_mobile": 83,
             "vertical_position_mobile": 75,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "WATERMELON",
+            "content": "<p><strong>Watermelon by FEEN</strong> offers a sweet, refreshing twist on nicotine replacement. Designed to help you quit smoking, it delivers smooth nicotine satisfaction without smoke, ash, or odor. The juicy watermelon flavor makes the experience enjoyable, helping distract from cravings while keeping your breath fresh. It’s a simple, discreet solution that supports your quit journey with flavor you’ll actually look forward to.</p>"
           }
         }
       },
@@ -664,7 +664,7 @@
       "settings": {
         "full_width": false,
         "image": "shopify://shop_images/feenFeatures.webp",
-        "title": "",
+        "title": "FEEN YOUR FEEN",
         "content": "",
         "button_text": "",
         "button_url": "",
