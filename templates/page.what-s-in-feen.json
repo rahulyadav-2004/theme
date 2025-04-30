@@ -89,7 +89,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -99,15 +99,17 @@
         "item_CwWgbe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/lozenge.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
+            "title": "NICOTINE",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_P9DTPA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/drops.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 2",
@@ -117,6 +119,7 @@
         "item_FVTVXQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/stevia.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading",
@@ -126,6 +129,7 @@
         "item_pV9bU9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/spices.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading",
@@ -135,6 +139,7 @@
         "item_hqkqak": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/vegan.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading",
