@@ -19,7 +19,7 @@
           "settings": {
             "icon": "picto-box",
             "custom_icon": "shopify://shop_images/free-shipping.png",
-            "mobile_icon_width": 80,
+            "mobile_icon_width": 60,
             "icon_width": 80,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -33,7 +33,7 @@
           "settings": {
             "icon": "picto-customer-support",
             "custom_icon": "shopify://shop_images/customer-support.png",
-            "mobile_icon_width": 80,
+            "mobile_icon_width": 60,
             "icon_width": 80,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -47,7 +47,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/refer.png",
-            "mobile_icon_width": 80,
+            "mobile_icon_width": 60,
             "icon_width": 80,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -61,7 +61,7 @@
           "settings": {
             "icon": "picto-lock",
             "custom_icon": "shopify://shop_images/google-pay.png",
-            "mobile_icon_width": 80,
+            "mobile_icon_width": 60,
             "icon_width": 80,
             "icon_background_type": "circle",
             "icon_background": "",
