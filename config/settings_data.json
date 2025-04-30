@@ -64,6 +64,11 @@
           "button_vertical_position": "higher",
           "greeting_message": ""
         }
+      },
+      "5606098957356384676": {
+        "type": "shopify://apps/xboost-product-reviews-ugc/blocks/xbost_pr_core/1bcf2d75-8260-4694-95d6-3c1eef1b140f",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
