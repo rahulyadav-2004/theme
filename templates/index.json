@@ -772,38 +772,94 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "What are Feen Nicotine Pouches?",
+            "content": "<p>Feen Nicotine Pouches are tobacco-free oral nicotine products designed to help you manage cravings. They’re smokeless, discreet, and come in refreshing flavors like Cool Mint and Orange.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Are Feen Nicotine Pouches legal in India?",
+            "content": "<p>Yes, Feen Nicotine Pouches are legal in India. They do not contain tobacco, which makes them compliant with current Indian regulations for nicotine replacement products.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "How do I use Feen Nicotine Pouches?",
+            "content": "<p>Place one pouch between your gum and upper lip. Leave it in place for up to 30 minutes. You’ll feel a tingling sensation—that’s the nicotine being released. Do not chew or swallow.</p>"
+          }
+        },
+        "item_6Jb8Jd": {
+          "type": "item",
+          "settings": {
+            "title": "Do Feen Nicotine Pouches contain tobacco?",
+            "content": "<p>No. Feen Pouches are 100% <strong>tobacco-free</strong>. They deliver nicotine in a cleaner, smoke-free way.</p>"
+          }
+        },
+        "item_UWc9eQ": {
+          "type": "item",
+          "settings": {
+            "title": "Are Feen Nicotine Pouches safe to use?",
+            "content": "<p>While no nicotine product is completely risk-free, Feen is a <strong>safer alternative</strong> to smoking. It contains pharmaceutical-grade nicotine and food-safe ingredients. Always use as directed.</p>"
+          }
+        },
+        "item_8yHPaj": {
+          "type": "item",
+          "settings": {
+            "title": "Can Feen Pouches help me quit smoking?",
+            "content": "<p>Feen can support you in reducing or quitting smoking by helping manage cravings. Many users find it easier to quit cigarettes by switching to pouches gradually.</p>"
+          }
+        },
+        "item_bdWNWb": {
+          "type": "item",
+          "settings": {
+            "title": "How long do the effects of one pouch last?",
+            "content": "<p>Each pouch typically provides <strong>20–30 minutes</strong> of nicotine release. The duration may vary depending on your usage and tolerance.</p>"
+          }
+        },
+        "item_9nCtfH": {
+          "type": "item",
+          "settings": {
+            "title": "Each pouch typically provides 20–30 minutes of nicotine release. The duration may vary depending on your usage and tolerance.",
+            "content": "<p>Start with <strong>2–4 pouches daily</strong> if you are a light smoker, or <strong>up to 8 pouches</strong> if you’re a heavy smoker. Gradually reduce your intake over time. Always consult your doctor if unsure.</p>"
+          }
+        },
+        "item_kG8z3x": {
+          "type": "item",
+          "settings": {
+            "title": "Do Feen Pouches contain harmful chemicals?",
+            "content": "<p>Feen pouches contain <strong>nicotine, plant fibers, sweeteners, and natural flavorings</strong>. They do <strong>not contain tobacco, tar, or combustion-related toxins</strong>, making them a cleaner option than cigarettes.</p>"
+          }
+        },
+        "item_Gr8wGa": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_6Jb8Jd",
+        "item_UWc9eQ",
+        "item_8yHPaj",
+        "item_bdWNWb",
+        "item_9nCtfH",
+        "item_kG8z3x",
+        "item_Gr8wGa"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "FAQ's",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Our customer support is available 24*7",
+        "answer_time": "Average answer time: 10 Mins",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
