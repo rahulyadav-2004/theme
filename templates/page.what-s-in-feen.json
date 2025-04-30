@@ -103,7 +103,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "NICOTINE",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>For smooth satisfying buzz , <strong>without smoke</strong></p>"
           }
         },
         "item_P9DTPA": {
@@ -112,8 +112,8 @@
             "image": "shopify://shop_images/drops.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "WATER",
+            "content": "<p>Keeps the pouch <strong>fresh and soft</strong>, just the way you like it .</p>"
           }
         },
         "item_FVTVXQ": {
@@ -122,8 +122,8 @@
             "image": "shopify://shop_images/stevia.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "SWEETNERS",
+            "content": "<p>A touch of sweetness to balance the hit.</p>"
           }
         },
         "item_pV9bU9": {
@@ -132,8 +132,8 @@
             "image": "shopify://shop_images/spices.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "FLAVORINGS",
+            "content": "<p>Natural vibes only—cool mint, citrus, whatever fits your <strong>mood</strong>.</p>"
           }
         },
         "item_hqkqak": {
@@ -142,8 +142,8 @@
             "image": "shopify://shop_images/vegan.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "PLANT BASED MATERIAL",
+            "content": "<p>Eco-friendly fibers that hold everything together, tobacco-free.</p>"
           }
         }
       },
@@ -161,7 +161,7 @@
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
