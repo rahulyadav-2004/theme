@@ -48,7 +48,7 @@
       "settings": {
         "full_width": false,
         "show_article_category": true,
-        "search_menu": "",
+        "search_menu": "main-menu",
         "search_menu_show_title": true
       }
     }
