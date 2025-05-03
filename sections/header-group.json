@@ -18,7 +18,7 @@
           "type": "message",
           "settings": {
             "text": "USE COUPON \"FEEN40\" , FOR 40%OFF",
-            "url": ""
+            "url": "shopify://products/feen-10-mg"
           }
         }
       },
