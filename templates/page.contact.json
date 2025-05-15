@@ -54,17 +54,34 @@
             "gradient": ""
           }
         },
-        "richtext_dxcneW": {
-          "type": "richtext",
+        "icon_bAT4MU": {
+          "type": "icon",
           "settings": {
-            "content": "<p>Phone No : 9649038291</p><p></p>"
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/images.jpg",
+            "icon_width": 44,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": ""
+          }
+        },
+        "button_PBnta6": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Message us on instagram",
+            "url": "https://www.instagram.com/feennicotine/",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
         "subheading_gtBT9w",
         "heading_NRfH9k",
-        "richtext_dxcneW"
+        "icon_bAT4MU",
+        "button_PBnta6"
       ],
       "name": "Rich text",
       "settings": {
