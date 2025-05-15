@@ -1,15 +1,16 @@
-# we use Shopify as our ecommerce platform
-{%- comment -%}
-# Caution! Please read https://help.shopify.com/en/manual/promoting-marketing/seo/editing-robots-txt before proceeding to make changes to this file.
-{% endcomment %}
-{% for group in robots.default_groups %}
-  {{- group.user_agent -}}
+User-agent: *
+Disallow: /admin
+Disallow: /cart
+Disallow: /checkout
+Disallow: /checkouts/
+Disallow: /orders
+Disallow: /account
+Disallow: /carts
+Disallow: /*preview_theme_id
+Disallow: /*preview_script_id
+Disallow: /apple-app-site-association
+Disallow: /.well-known/
+Disallow: /cdn/
+Disallow: /search
 
-  {% for rule in group.rules %}
-    {{- rule -}}
-  {% endfor %}
-
-  {%- if group.sitemap != blank -%}
-    {{ group.sitemap }}
-  {%- endif -%}
-{% endfor %}
+Sitemap: https://feenshop.in/sitemap.xml
