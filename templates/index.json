@@ -831,13 +831,6 @@
             "title": "Do Feen Pouches contain harmful chemicals?",
             "content": "<p>Feen pouches contain <strong>nicotine, plant fibers, sweeteners, and natural flavorings</strong>. They do <strong>not contain tobacco, tar, or combustion-related toxins</strong>, making them a cleaner option than cigarettes.</p>"
           }
-        },
-        "item_Gr8wGa": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
         }
       },
       "block_order": [
@@ -849,8 +842,7 @@
         "item_8yHPaj",
         "item_bdWNWb",
         "item_9nCtfH",
-        "item_kG8z3x",
-        "item_Gr8wGa"
+        "item_kG8z3x"
       ],
       "settings": {
         "full_width": false,
