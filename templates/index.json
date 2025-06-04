@@ -240,7 +240,7 @@
           "pack-of-5"
         ],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": true,
         "products_count": 3,
         "products_per_row_mobile": "1",
