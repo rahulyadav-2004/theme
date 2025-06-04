@@ -391,30 +391,6 @@
         "heading_gradient": ""
       }
     },
-    "video_TH3JKa": {
-      "type": "video",
-      "blocks": {
-        "play_yB4Hnn": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_yB4Hnn"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/lv_0_20250412231342.mp4",
-        "external_video_url": "https://vimeo.com/1079891776?share=copy",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -642,74 +618,6 @@
         "logo_item_border": ""
       }
     },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 11,
-            "vertical_position": 54,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "ORANGE",
-            "content": "<p><strong>Orange by FEEN</strong> brings a zesty, citrus kick that energizes your senses while helping you move away from cigarettes. With no smoke or tobacco, it delivers clean nicotine relief in a convenient pouch. The bright orange flavor makes the switch more pleasant, easing withdrawal and helping break the habit without the mess or stigma of smoking.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 46,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "COOL MINT",
-            "content": "<p>Cool Mint by FEEN is designed to help you quit smoking by giving you a clean, smoke-free way to manage nicotine cravings. Each pouch delivers a satisfying dose of nicotine without the harmful chemicals found in cigarettes, while the refreshing mint flavor helps curb the urge to smoke. It's discreet, easy to use anywhere, and leaves no smell—making it a more socially acceptable and convenient alternative. By reducing withdrawal symptoms and replacing the hand-to-mouth habit with a healthier option, FEEN makes quitting feel more manageable and less stressful.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "WATERMELON",
-            "content": "<p><strong>Watermelon by FEEN</strong> offers a sweet, refreshing twist on nicotine replacement. Designed to help you quit smoking, it delivers smooth nicotine satisfaction without smoke, ash, or odor. The juicy watermelon flavor makes the experience enjoyable, helping distract from cravings while keeping your breath fresh. It’s a simple, discreet solution that supports your quit journey with flavor you’ll actually look forward to.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "image": "shopify://shop_images/feenFeatures.webp",
-        "title": "FEEN YOUR FEEN",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
     "accordion_content_WqYKUn": {
       "type": "accordion-content",
       "blocks": {
@@ -902,12 +810,10 @@
     "custom_html_eHcXmq",
     "impact-text",
     "collection_list_iatpAT",
-    "video_TH3JKa",
     "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
-    "hot-spots",
     "accordion_content_WqYKUn",
     "faq"
   ]
