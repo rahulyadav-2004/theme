@@ -259,6 +259,122 @@
         "product_card_text_color": ""
       }
     },
+    "image_link_blocks_3YUVKY": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_jciWEb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/feenopened-removebg-preview.png",
+            "stretch_image": true,
+            "link_text": "POP the can open",
+            "link_url": "",
+            "background": "",
+            "text_color": "#1a1a1a",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0
+          }
+        },
+        "item_g8pjfq": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YT8GWn": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HnL4Np": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_jciWEb",
+        "item_g8pjfq",
+        "item_YT8GWn",
+        "item_HnL4Np"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "POUCHES 101",
+        "content": "<h3><strong>Your guide to satisfaction</strong></h3>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(240, 69, 87, 1), rgba(221, 39, 57, 1) 100%)"
+      }
+    },
+    "images_with_text_scrolling_nHrFkb": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_REcrpb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/feenopened.png",
+            "icon": "none",
+            "icon_width": 40,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_RtnxVV": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_REcrpb",
+        "item_RtnxVV"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -872,6 +988,8 @@
     "image-link-blocks",
     "scrolling-text",
     "featured-collection",
+    "image_link_blocks_3YUVKY",
+    "images_with_text_scrolling_nHrFkb",
     "collection-list",
     "impact-text",
     "video_TH3JKa",
