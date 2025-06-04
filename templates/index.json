@@ -69,7 +69,7 @@
             "heading_tag": "h1",
             "button_text": "Shop",
             "button_link": "shopify://collections/all",
-            "text_color": "#0057d3",
+            "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
