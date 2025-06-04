@@ -95,7 +95,7 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/image.webp",
+            "image": "shopify://shop_images/Feen_logo.png",
             "image_width": 150,
             "heading_size": "h3",
             "title": "Sign up for new stories and personal offers",
