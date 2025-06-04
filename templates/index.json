@@ -285,80 +285,6 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_cbV3Qx": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_3QBiCU": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_RJDxhj": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_hM7pXT": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_bNBWMp": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_3QBiCU",
-        "item_RJDxhj",
-        "item_hM7pXT",
-        "item_bNBWMp"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": true,
-        "block_size": "large",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "collection_list_iatpAT": {
       "type": "collection-list",
       "blocks": {
@@ -974,7 +900,6 @@
     "featured-collection",
     "custom_html_fNYThr",
     "custom_html_eHcXmq",
-    "image_link_blocks_cbV3Qx",
     "collection_list_iatpAT",
     "impact-text",
     "video_TH3JKa",
