@@ -311,11 +311,11 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1) 100%)",
-        "text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(0, 71, 171, 1), rgba(37, 117, 252, 1) 100%)",
+        "text_color": "#ffffff",
         "button_background": "",
         "button_text_color": ""
       }
