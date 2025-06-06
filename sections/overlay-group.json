@@ -18,7 +18,8 @@
         "show_only_on_index": true,
         "show_only_for_visitors": true,
         "show_only_once": true,
-        "title": "Signup for Exclusive Drops and Discounts",
+        "image": "shopify://shop_images/Frame_184.webp",
+        "title": "GET EXCLUSIVE ACCESS TO FEEN COMMUNITY AND DISCOUNTS",
         "button_text": "Subscribe",
         "subtext": ""
       }
@@ -38,7 +39,10 @@
         "show_view_cart_button": true,
         "show_checkout_button": true,
         "recommendations_title": "Trending this month",
-        "products": [],
+        "products": [
+          "feen-10-mg",
+          "pack-of-5"
+        ],
         "product_card_background": "#f2f2f2",
         "product_card_text_color": ""
       }
