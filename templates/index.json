@@ -235,7 +235,7 @@
       "settings": {
         "collection": "",
         "products": [
-          "feen-10-mg",
+          "feen-coolmint-10mg-nicotine-pouches",
           "pack-of-3",
           "pack-of-5"
         ],
@@ -330,7 +330,7 @@
             "image": "shopify://shop_images/Group_201.webp",
             "subheading": "",
             "title": "",
-            "url": "shopify://products/feen-10-mg",
+            "url": "shopify://products/feen-coolmint-10mg-nicotine-pouches",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
