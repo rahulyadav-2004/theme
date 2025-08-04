@@ -57,12 +57,12 @@
         "image_UMaXwc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_201.webp",
+            "image": "shopify://shop_images/BANNER3.jpg",
             "content_max_width": 700,
             "mobile_text_position": "place-self-start-center text-center",
-            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "subheading": "",
-            "title": "\\",
+            "title": "",
             "heading_tag": "h1",
             "button_text": "Shop @199",
             "button_link": "shopify://collections/all",
