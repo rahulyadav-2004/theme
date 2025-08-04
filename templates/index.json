@@ -57,7 +57,7 @@
         "image_UMaXwc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_201_1fb5c2f1-f005-4a80-84ae-d10936a8c879.jpg",
+            "image": "shopify://shop_images/Frame_201.jpg",
             "content_max_width": 700,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
