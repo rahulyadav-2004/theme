@@ -75,10 +75,24 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "custom_html_VctLwf": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<style>\n  .popup-wrapper {\n    position: fixed;\n    bottom: 20px;\n    right: 20px;\n    background: #ffffff;\n    border-radius: 16px;\n    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);\n    padding: 28px 24px;\n    max-width: 320px;\n    z-index: 9999;\n    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n    color: #1d1d1f;\n  }\n\n  .popup-wrapper h3 {\n    font-size: 20px;\n    font-weight: 700;\n    margin: 0 0 6px;\n  }\n\n  .popup-wrapper p {\n    font-size: 14px;\n    color: #444;\n    margin: 6px 0 16px;\n    line-height: 1.4;\n  }\n\n  .promo-code {\n    background-color: #000218;\n    color: #fff;\n    padding: 6px 12px;\n    font-weight: bold;\n    border-radius: 6px;\n    display: inline-block;\n    font-size: 14px;\n    margin-top: 6px;\n    letter-spacing: 0.5px;\n  }\n\n  .countdown {\n    display: flex;\n    justify-content: space-between;\n    gap: 6px;\n    margin: 12px 0;\n  }\n\n  .count-box {\n    background-color: #f2f2f2;\n    padding: 10px 12px;\n    border-radius: 8px;\n    text-align: center;\n    min-width: 60px;\n  }\n\n  .count-box span {\n    display: block;\n    font-size: 16px;\n    font-weight: 600;\n    color: #000;\n  }\n\n  .count-label {\n    font-size: 10px;\n    color: #6e6e73;\n  }\n</style>\n\n<div class=\"popup-wrapper\">\n  <h3>LIMITED TIME OFFER!</h3>\n  <p>Use code <span class=\"promo-code\">FEENME</span> to get an extra discount on your order.</p>\n\n  <div class=\"countdown\">\n    <div class=\"count-box\">\n      <span id=\"days\">0</span>\n      <div class=\"count-label\">Days</div>\n    </div>\n    <div class=\"count-box\">\n      <span id=\"hours\">0</span>\n      <div class=\"count-label\">Hours</div>\n    </div>\n    <div class=\"count-box\">\n      <span id=\"minutes\">0</span>\n      <div class=\"count-label\">Mins</div>\n    </div>\n    <div class=\"count-box\">\n      <span id=\"seconds\">0</span>\n      <div class=\"count-label\">Secs</div>\n    </div>\n  </div>\n</div>\n\n<script>\n  const endDate = new Date();\n  endDate.setDate(endDate.getDate() + 3);\n  endDate.setHours(23, 59, 59, 999);\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate - now;\n\n    if (distance <= 0) {\n      document.querySelector(\".popup-wrapper\").style.display = \"none\";\n      return;\n    }\n\n    const days = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const hours = Math.floor((distance / (1000 * 60 * 60)) % 24);\n    const minutes = Math.floor((distance / 1000 / 60) % 60);\n    const seconds = Math.floor((distance / 1000) % 60);\n\n    document.getElementById(\"days\").textContent = days;\n    document.getElementById(\"hours\").textContent = hours;\n    document.getElementById(\"minutes\").textContent = minutes;\n    document.getElementById(\"seconds\").textContent = seconds;\n  }\n\n  setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>",
+        "background": "#000218",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "custom_html_VctLwf"
   ]
 }
