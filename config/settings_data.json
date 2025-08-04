@@ -53,7 +53,7 @@
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": 1000,
     "social_instagram": "https://www.instagram.com/feennicotine/",
-    "favicon": "shopify://shop_images/file.svg",
+    "favicon": "shopify://shop_images/feenLogo.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
