@@ -21,6 +21,13 @@
             "url": "shopify://products/feen-pack-of-5-coolmint-10mg-nicotine-pouches"
           }
         },
+        "message_jryBCi": {
+          "type": "message",
+          "settings": {
+            "text": "Welcome To Feen",
+            "url": ""
+          }
+        },
         "message_Keb7AR": {
           "type": "message",
           "settings": {
@@ -31,6 +38,7 @@
       },
       "block_order": [
         "message",
+        "message_jryBCi",
         "message_Keb7AR"
       ],
       "settings": {
