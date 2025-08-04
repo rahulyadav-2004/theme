@@ -57,7 +57,7 @@
         "image_UMaXwc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER3.jpg",
+            "image": "shopify://shop_images/Frame_201_2.webp",
             "content_max_width": 700,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-end-start sm:text-start",
