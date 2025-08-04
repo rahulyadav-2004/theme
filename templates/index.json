@@ -176,7 +176,7 @@
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": true,
+        "remove_vertical_spacing": false,
         "remove_horizontal_spacing": true,
         "html": "<div style=\"background-color: #000; overflow: hidden; padding: 20px 0; width: 100%;\">\n  <div style=\"display: flex; animation: scroll-left 15s linear infinite;\">\n    <div style=\"white-space: nowrap; color: #fff; font-size: 24px; font-weight: 700; padding-right: 50px;\">\n      ★ 10,000+ Satisfied Customers ★     Thank you for trusting FEEN!\n    </div>\n    <div style=\"white-space: nowrap; color: #fff; font-size: 24px; font-weight: 700; padding-right: 50px;\">\n      ★ 10,000+ Satisfied Customers ★     Thank you for trusting FEEN!\n    </div>\n  </div>\n</div>\n\n<style>\n@keyframes scroll-left {\n  0% {\n    transform: translateX(0%);\n  }\n  100% {\n    transform: translateX(-50%);\n  }\n}\n</style>",
         "background": "",
