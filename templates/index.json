@@ -15,8 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_200.webp",
-            "mobile_image": "shopify://shop_images/Frame_203.jpg",
             "content_max_width": 720,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -37,8 +35,7 @@
         "image_Qw9DKn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_198.webp",
-            "mobile_image": "shopify://shop_images/Frame_201_40cc6ccc-d24f-41f5-9049-d84d41d9ef75.jpg",
+            "image": "shopify://shop_images/Frame_197_3.webp",
             "content_max_width": 700,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -59,8 +56,6 @@
         "image_UMaXwc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_199_1.webp",
-            "mobile_image": "shopify://shop_images/Frame_205.jpg",
             "content_max_width": 700,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -102,7 +97,6 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image-removebg-preview.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -115,7 +109,6 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image-removebg-preview_1.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -128,7 +121,6 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image-removebg-preview_2.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -141,7 +133,6 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image-removebg-preview_3.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -154,7 +145,6 @@
         "item_cPUUjX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Group_196.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -167,7 +157,6 @@
         "item_8fT7RU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Group_197.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -180,7 +169,6 @@
         "item_8WnRVi": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Group_198.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -327,7 +315,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Group_201.webp",
             "subheading": "",
             "title": "",
             "url": "shopify://products/feen-coolmint-10mg-nicotine-pouches",
@@ -342,7 +329,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Group_199.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -357,7 +343,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Group_200.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -425,7 +410,6 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/New.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -439,7 +423,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/howtofeen.webp",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -461,7 +444,6 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WHATS_FEEN.webp",
             "title": "",
             "heading_tag": "h4",
             "link_url": "shopify://pages/feen-guide-to-nicotine-pouches",
@@ -483,7 +465,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/aboutfeen.webp",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -505,7 +486,6 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Steps.webp",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -547,8 +527,6 @@
         "subheading": "",
         "title": "Switch to FEEN. See the Change.",
         "content": "<p>FEEN. is designed to help you QUIT .</p>",
-        "before_image": "shopify://shop_images/Before.webp",
-        "after_image": "shopify://shop_images/after.webp",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -570,7 +548,6 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/1.jpg",
             "logo_width": 100,
             "author": "Manish Shankar",
             "content": "Other brands are charging ₹500+ for the same thing. Feen gives me better quality at less than half the price. Finally, someone’s not looting us!",
@@ -581,7 +558,6 @@
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/3.jpg",
             "logo_width": 100,
             "author": "Sanjeev Patel",
             "content": "I switched from an ZYN and Velo to Feen and I honestly can’t tell the difference, except for the price. ₹199 feels like a steal.",
@@ -592,7 +568,6 @@
         "quote_6qtKwQ": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/2.jpg",
             "logo_width": 100,
             "author": "Amit Gupta",
             "content": "Rs.199 for a premium pouch is unbeatable. I’ve already recommended Feen to 3 of my friends. It’s the future of quitting.",
