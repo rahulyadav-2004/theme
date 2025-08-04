@@ -66,7 +66,7 @@
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "Experience the refreshing burst of watermelon",
             "title": "OUR WATERMELON FLAVOUR IS HERE",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "button_text": "Try Watermelon Now",
             "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
