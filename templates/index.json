@@ -248,8 +248,11 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "products": [],
+        "collection": "frontpage",
+        "products": [
+          "cool-mint-10-mg",
+          "watermelon-10-mg"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
@@ -274,7 +277,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "products": [],
         "full_width": true,
         "stack_products": true,
