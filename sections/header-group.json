@@ -75,10 +75,24 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "custom_html_Hwd3EQ": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<style>\n  .social-float {\n    position: fixed;\n    top: 50%;\n    left: 0;\n    transform: translateY(-50%);\n    z-index: 9999;\n    display: flex;\n    flex-direction: column;\n    gap: 16px;\n    padding: 8px;\n  }\n\n  .social-float a {\n    background-color: #fff;\n    border-radius: 50%;\n    width: 48px;\n    height: 48px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);\n    transition: transform 0.2s ease;\n  }\n\n  .social-float a:hover {\n    transform: scale(1.1);\n  }\n\n  .social-float img {\n    width: 28px;\n    height: 28px;\n  }\n\n  @media (max-width: 600px) {\n    .social-float {\n      left: 10px;\n    }\n\n    .social-float a {\n      width: 42px;\n      height: 42px;\n    }\n\n    .social-float img {\n      width: 24px;\n      height: 24px;\n    }\n  }\n</style>\n\n<div class=\"social-float\">\n  <a href=\"https://wa.me/919286261677\" target=\"_blank\" aria-label=\"Chat on WhatsApp\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/733/733585.png\" alt=\"WhatsApp Icon\">\n  </a>\n\n  <a href=\"https://instagram.com/feennicotine\" target=\"_blank\" aria-label=\"Visit Instagram\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/2111/2111463.png\" alt=\"Instagram Icon\">\n  </a>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "custom_html_Hwd3EQ"
   ]
 }
