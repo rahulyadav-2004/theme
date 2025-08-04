@@ -158,6 +158,19 @@
         "text_color": ""
       }
     },
+    "custom_html_Ntc99K": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<br>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -721,6 +734,7 @@
     "custom_html_XERNVL",
     "custom_html_6Ytx3C",
     "custom_html_eC7NNj",
+    "custom_html_Ntc99K",
     "featured-collection",
     "custom_html_fNYThr",
     "custom_html_eHcXmq",
