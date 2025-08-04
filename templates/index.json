@@ -60,7 +60,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Frame_201.jpg",
-            "mobile_image": "shopify://shop_images/WER4.jpg",
+            "mobile_image": "shopify://shop_images/WER5.jpg",
             "content_max_width": 700,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
