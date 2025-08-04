@@ -132,6 +132,19 @@
         "text_color": ""
       }
     },
+    "custom_html_6Ytx3C": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<div style=\"background-color: #f5f5f7; padding: 20px 10px; overflow-x: auto; white-space: nowrap;\">\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/2920/2920051.png\" alt=\"Tobacco-Free\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">Tobacco-Free</div>\n  </div>\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/616/616408.png\" alt=\"Lab Tested\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">Lab-Tested</div>\n  </div>\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/135/135620.png\" alt=\"Flavours\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">Delicious Flavours</div>\n  </div>\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/3050/3050525.png\" alt=\"No Smoke\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">No Smoke, No Smell</div>\n  </div>\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/1040/1040230.png\" alt=\"Pocket Friendly\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">Pocket-Friendly</div>\n  </div>\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/4202/4202840.png\" alt=\"Vegan Safe\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">Vegan Friendly</div>\n  </div>\n\n  <div style=\"display: inline-block; text-align: center; width: 100px; margin: 0 15px;\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/1182/1182718.png\" alt=\"Quick Hit\" style=\"width: 60px;\">\n    <div style=\"margin-top: 10px; font-weight: 500;\">Instant Kick</div>\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -820,6 +833,7 @@
   "order": [
     "slideshow",
     "custom_html_XERNVL",
+    "custom_html_6Ytx3C",
     "image-link-blocks",
     "scrolling-text",
     "featured-collection",
