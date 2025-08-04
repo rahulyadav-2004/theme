@@ -80,8 +80,8 @@
         "image_NaR7HT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1.png",
-            "content_max_width": 780,
+            "image": "shopify://shop_images/1_44518299-b3c1-458c-a8d9-aad858411d7a.png",
+            "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
