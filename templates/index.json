@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Frame_197.webp",
-            "mobile_image": "shopify://shop_images/WER.jpg",
+            "mobile_image": "shopify://shop_images/MobileBanner1.webp",
             "content_max_width": 720,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -38,7 +38,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Frame_198.webp",
-            "mobile_image": "shopify://shop_images/wer2.jpg",
+            "mobile_image": "shopify://shop_images/Frame_203.jpg",
             "content_max_width": 700,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -90,7 +90,7 @@
         "controls_type": "outline_arrows",
         "transition_type": "fade_with_text",
         "autoplay": true,
-        "cycle_speed": 10,
+        "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(0, 0, 0, 1), rgba(23, 29, 33, 1) 98%)"
       }
