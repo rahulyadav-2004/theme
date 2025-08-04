@@ -171,20 +171,17 @@
         "text_color": ""
       }
     },
-    "scrolling_text_Y8VgqU": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
+    "custom_html_QwpfEn": {
+      "type": "custom-html",
+      "name": "Custom HTML",
       "settings": {
         "full_width": true,
-        "text": "10,000+ Satisfied Customers",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#000000",
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<div style=\"background-color: #000; padding: 16px 0; overflow: hidden; white-space: nowrap;\">\n  <marquee behavior=\"scroll\" direction=\"left\" scrollamount=\"10\" style=\"color: #fff; font-size: 22px; font-weight: 600;\">\n    ★ 10,000+ Satisfied Customers ★     Thank you for trusting FEEN!     ★ 10,000+ Satisfied Customers ★\n  </marquee>\n</div>",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#ffffff",
-        "text_gradient": ""
+        "text_color": ""
       }
     },
     "custom_html_XERNVL": {
@@ -824,7 +821,7 @@
     "custom_html_zrwzzw",
     "custom_html_6Ytx3C",
     "custom_html_heqMQQ",
-    "scrolling_text_Y8VgqU",
+    "custom_html_QwpfEn",
     "custom_html_XERNVL",
     "image_link_blocks_FxCm9R",
     "featured-collection",
