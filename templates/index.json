@@ -158,19 +158,6 @@
         "text_color": ""
       }
     },
-    "custom_html_heqMQQ": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": true,
-        "html": "<br>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_html_4x99H7": {
       "type": "custom-html",
       "name": "Custom HTML",
@@ -197,6 +184,19 @@
         "text_color": ""
       }
     },
+    "custom_html_heqMQQ": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<br>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_html_XERNVL": {
       "type": "custom-html",
       "name": "Custom HTML",
@@ -210,68 +210,17 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_FxCm9R": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_J8dGJT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Group_201.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_c7zCmg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Group_199.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_f6gQc6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/WaterMelon.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_J8dGJT",
-        "item_c7zCmg",
-        "item_f6gQc6"
-      ],
-      "name": "Image link blocks",
+    "custom_html_McgDbT": {
+      "type": "custom-html",
+      "name": "Custom HTML",
       "settings": {
         "full_width": true,
-        "block_size": "small",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<meta charset=\"UTF-8\">\n  <title>FEEN Flavours</title>\n  <style>\n    body {\n      margin: 0;\n      padding: 0;\n      font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n      background-color: #f5f5f5;\n      color: #1d1d1f;\n    }\n\n    .feen-wrapper {\n      display: flex;\n      justify-content: flex-start;\n      gap: 20px;\n      padding: 20px;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      -webkit-overflow-scrolling: touch;\n    }\n\n    .feen-item {\n      text-align: center;\n      flex: 0 0 auto;\n      width: 120px;\n      scroll-snap-align: start;\n    }\n\n    .feen-icon {\n      width: 100%;\n      height: auto;\n      border-radius: 12px;\n      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);\n      transition: transform 0.3s ease;\n    }\n\n    .feen-icon:hover {\n      transform: scale(1.05);\n    }\n\n    .feen-label {\n      margin-top: 8px;\n      font-size: 14px;\n      font-weight: 600;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      gap: 4px;\n      flex-wrap: wrap;\n    }\n\n    .feen-badge {\n      background-color: #ff3b30;\n      color: white;\n      font-size: 10px;\n      font-weight: bold;\n      padding: 2px 5px;\n      border-radius: 4px;\n      text-transform: uppercase;\n    }\n\n    @media (min-width: 768px) {\n      .feen-wrapper {\n        justify-content: center;\n        overflow-x: hidden;\n      }\n\n      .feen-item {\n        width: 160px;\n      }\n\n      .feen-label {\n        font-size: 16px;\n      }\n    }\n  </style>\n\n\n\n  <div class=\"feen-wrapper\">\n    <div class=\"feen-item\">\n      <img class=\"feen-icon\" src=\"https://cdn.shopify.com/s/files/1/0710/3456/8875/files/Group_201.png?v=1754313354\" alt=\"Cool Mint\">\n      <div class=\"feen-label\">Cool Mint</div>\n    </div>\n\n    <div class=\"feen-item\">\n      <img class=\"feen-icon\" src=\"https://cdn.shopify.com/s/files/1/0710/3456/8875/files/Group_199.png?v=1754313354\" alt=\"Watermelon\">\n      <div class=\"feen-label\">\n        <span class=\"feen-badge\">NEW</span>\n        Watermelon\n      </div>\n    </div>\n\n    <div class=\"feen-item\">\n      <img class=\"feen-icon\" src=\"https://cdn.shopify.com/s/files/1/0710/3456/8875/files/WaterMelon.png?v=1754313346\" alt=\"Orange\">\n      <div class=\"feen-label\">\n        <span class=\"feen-badge\">NEW</span>\n        Orange\n      </div>\n    </div>\n  </div>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     },
     "featured-collection": {
@@ -837,7 +786,7 @@
     "custom_html_QwpfEn",
     "custom_html_heqMQQ",
     "custom_html_XERNVL",
-    "image_link_blocks_FxCm9R",
+    "custom_html_McgDbT",
     "featured-collection",
     "custom_html_fNYThr",
     "custom_html_eHcXmq",
