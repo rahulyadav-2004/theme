@@ -464,6 +464,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Group_233.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
