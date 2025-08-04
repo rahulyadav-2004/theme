@@ -77,12 +77,35 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_7c4CND": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_205.jpg",
+            "mobile_image": "shopify://shop_images/Frame_205.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "THIS IS WHAT FEELS LIKE   F E E N",
+            "title": "GET YOUR FIRST PACK AT JUST",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
         "slide-2",
         "image_Qw9DKn",
-        "image_UMaXwc"
+        "image_UMaXwc",
+        "image_7c4CND"
       ],
       "settings": {
         "full_width": true,
