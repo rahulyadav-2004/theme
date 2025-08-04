@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/Frame_197.webp",
             "mobile_image": "shopify://shop_images/Frame_183.jpg",
-            "content_max_width": 1200,
+            "content_max_width": 720,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "A CLEANER, SMOKELESS ALTERNATIVE FOR NICOTINE LOVERS.",
@@ -85,7 +85,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "image_size": "auto",
+        "image_size": "lg",
         "controls_type": "outline_arrows",
         "transition_type": "fade_with_text",
         "autoplay": true,
