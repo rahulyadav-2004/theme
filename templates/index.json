@@ -235,7 +235,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Recently viewed products</h4>",
+        "content": "<h3>Recently viewed products</h3>",
         "background": "",
         "background_gradient": "",
         "text_color": "",
