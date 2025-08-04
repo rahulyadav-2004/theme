@@ -520,28 +520,6 @@
         "background_gradient": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "Switch to FEEN. See the Change.",
-        "content": "<p>FEEN. is designed to help you QUIT .</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "press": {
       "type": "press",
       "blocks": {
@@ -795,7 +773,6 @@
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
-    "before-after-image",
     "press",
     "accordion_content_WqYKUn",
     "faq"
