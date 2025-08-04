@@ -16,35 +16,9 @@
         "content_width": "80ch"
       }
     },
-    "contact": {
-      "type": "contact",
-      "settings": {
-        "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
-        "content": "",
-        "text_position": "start",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "rich_text_D9hxXE": {
       "type": "rich-text",
       "blocks": {
-        "subheading_gtBT9w": {
-          "type": "subheading",
-          "settings": {
-            "text": "Contact us"
-          }
-        },
         "heading_NRfH9k": {
           "type": "heading",
           "settings": {
@@ -58,7 +32,6 @@
           "type": "icon",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images.jpg",
             "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "",
@@ -78,7 +51,6 @@
         }
       },
       "block_order": [
-        "subheading_gtBT9w",
         "heading_NRfH9k",
         "icon_bAT4MU",
         "button_PBnta6"
@@ -96,7 +68,6 @@
   },
   "order": [
     "main",
-    "contact",
     "rich_text_D9hxXE"
   ]
 }
